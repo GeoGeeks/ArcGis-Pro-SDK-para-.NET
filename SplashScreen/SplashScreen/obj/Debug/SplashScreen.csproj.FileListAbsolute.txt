@@ -1,0 +1,6 @@
+c:\users\amph7\onedrive\documentos\visual studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.dll
+c:\users\amph7\onedrive\documentos\visual studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+c:\users\amph7\onedrive\documentos\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+c:\users\amph7\onedrive\documentos\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.g.resources
+c:\users\amph7\onedrive\documentos\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.dll
+c:\users\amph7\onedrive\documentos\visual studio 2015\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb

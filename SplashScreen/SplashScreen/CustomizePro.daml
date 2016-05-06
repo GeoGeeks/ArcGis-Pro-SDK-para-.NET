@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArcGIS xmlns="http://schemas.esri.com/DADF/Registry"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://schemas.esri.com/DADF/Registry">
+
+  <dependencies>
+    <dependency name="ADMapping.daml" />
+  </dependencies>
+
+  <modules>
+    <insertModule id="Customize_Pro_Daml">
+      <tabs>
+
+        <tab id="my_favorites" caption="Favoritos">
+          <group refID="DAML_Group1" />
+          <group refID="DAML_Group2" />
+          <group refID="esri_mapping_navigateGroup" />
+        </tab>
+      </tabs>
+
+      <groups>
+        <group id="DAML_Group1" caption="Archivo">
+          <toolPalette refID="esri_mapping_newMapPalette" />
+          <button refID="esri_core_saveProjectButton" />
+          <button refID="esri_core_saveProjectAsButton" />
+          <gallery refID="esri_mapping_bookmarksNavigateGallery" />
+          <button refID="esri_core_saveProjectButton"/>
+        </group>
+
+        <group id="DAML_Group2" caption="Seleccion">
+          <toolPalette refID="esri_mapping_selectToolPalette" />
+          <button refID="esri_mapping_clearSelectionButton" />
+          <button refID="esri_geoprocessing_selectByAttributeButton" />
+        </group>
+      </groups>
+
+    </insertModule>
+  </modules>
+</ArcGIS>

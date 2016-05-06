@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArcGIS.Custom
+  xmlns="http://schemas.esri.com/ArcGIS/Custom"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  appName="Custom SplashScreen Example">
+
+  <DAML path="C:\Users\amph7\OneDrive\Documentos\Visual Studio 2015\Projects\SplashScreen\SplashScreen\CustomizePro.daml"/>
+
+  <!-- Change the assembly path attribute to point to the location of 
+          your SplashScreen.dll file-->
+  <SplashScreen assembly="C:\Users\amph7\OneDrive\Documentos\Visual Studio 2015\Projects\SplashScreen\SplashScreen\bin\Debug\splashscreen.dll" image="Imagenes\AGSPro_Splash.png"/>
+
+
+
+
+</ArcGIS.Custom>
